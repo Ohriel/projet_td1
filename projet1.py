@@ -30,7 +30,7 @@ plt.plot(x,y)
 plt.show()
 #print(x)
 
-
+#New function
 
 
 #def graph_var_fonct_temps(variable):
